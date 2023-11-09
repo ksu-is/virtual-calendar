@@ -11,3 +11,4 @@ Upon opening the application, you will be shown the main menu options: Register,
 New users, select "Register" option, you will be required to create your own login credentials such as username and password. After completing the registration, your login credentials will be valid for logging in.
 Existing users, select "Login" option, and enter your login credentials: username and password.
 After logging in, the Virtual Calendar will be presented.
+ 
