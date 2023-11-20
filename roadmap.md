@@ -24,4 +24,4 @@
 - [X] Prepare documentation and user guide for the Virtual Calendar.
 - [X] Finalize deployment process for web
 - [X] Conduct final testing and quality assurance
-- [X] Release Virtual Calendar
+- [] Release Virtual Calendar
